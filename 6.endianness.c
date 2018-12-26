@@ -1,4 +1,4 @@
-/*Write a program to find whether the given processor is little endian or big endian.*/
+/*Write a program to find whether the given processor is little endian or big endian */
 
 #include<stdio.h>
 
