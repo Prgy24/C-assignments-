@@ -1,5 +1,5 @@
 /*Develop a C program to add two operands and store the result in one of the operand using
-addition assignment operator.*/
+addition assignment operator */
 
 #include<stdio.h>
 int main()
