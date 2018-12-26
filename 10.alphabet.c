@@ -4,7 +4,7 @@
 ‘D’ or ‘d’, it should display D for Dog
 ‘F’ or ‘f’, it should display F for Fan
 Instead of the above 4 characters, if user types any other character, it should display “Character
-is not in the range”. Implement this using if-else statement and switch statement.*/
+is not in the range”. Implement this using if-else statement */
 
 #include<stdio.h>
 int main()
