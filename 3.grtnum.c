@@ -1,4 +1,4 @@
-/*Write a C program to find the maximum of 2 numbers using Conditional operator.*/
+/*Write a C program to find the maximum of 2 numbers using Conditional operator */
 
 #include<stdio.h>
 
