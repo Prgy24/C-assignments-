@@ -1,8 +1,5 @@
 /*Write a menu based C program to perform operations (+, - and *) on matrices.*/
 
-
-
-
 #include<stdio.h>
 int main()
 {
