@@ -1,3 +1,6 @@
+/*Program to read a file */
+
+
 #include<stdio.h>
 #include<stdlib.h>
 int main()
